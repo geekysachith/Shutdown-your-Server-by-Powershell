@@ -1,0 +1,1 @@
+Stop-Computer –computer server1 -Force  <# Enteryour Server Name in the palace of server1#>
